@@ -1,3 +1,4 @@
 #  E'tiborga olmaslik 
 db.sqlite3
 sayt_muhit
+*.sqlite3
